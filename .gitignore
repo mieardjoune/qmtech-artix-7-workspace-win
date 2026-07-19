@@ -1,0 +1,10 @@
+projects/*/build/
+projects/*/sim/
+projects/*/reports/
+projects/*/vivado_project/
+.Xil/
+.crash/
+*.jou
+*.log
+*.pb
+clockInfo.txt
